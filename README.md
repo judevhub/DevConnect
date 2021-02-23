@@ -116,3 +116,9 @@ if (thisRepo.isAwesome()) {
   thisRepo.share(); // sharing is caring :D
 }
 ```
+
+## Project Owned by
+<br>
+<p align="center">
+<img src='src/assets/DevHub_Logo.png' width="350px" height="150" align="centre" alt="Indebot logo"/>
+</p>
