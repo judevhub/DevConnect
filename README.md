@@ -28,6 +28,10 @@ Here are the technologies which we use to built this project please have a look
 
 To make a completely open sourced community engagement and event management platform.
 
+## Contribute in our project
+
+Please have a look at [Contributing Guide](CONTRIBUTING.md) for more details
+
 ## Learning Resources 🧰
 
 - [Git Documentation](https://git-scm.com/docs)
@@ -49,6 +53,15 @@ To make a completely open sourced community engagement and event management plat
 ## License
 
 DevConnect is licensed under the GNU General Public License v3.0. Learn more about it in the [LICENSE](LICENSE) file.
+
+## Mentors
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/judevhub) [![GitHub pull requests](https://img.shields.io/github/issues-pr-closed-raw/judevhub/DevConnect?logo=git&logoColor=white)](https://github.com/judevhub/DevConnect/pulls?q=is%3Apr+is%3Aclosed)
+
+| GitHub Usernames                                      | Domain                     |
+| ----------------------------------------------------- | -------------------------- |
+| [@skshahnawaz](https://github.com/skshahnawaz)        | Full Stack                 |
+| [@ayan-biswas0412](https://github.com/ayan-biswas0412)| Full Stack                 |
 
 ## COVID-19<sup>Stay Home, Stay Safe!</sup>
 
