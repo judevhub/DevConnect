@@ -60,8 +60,8 @@ DevConnect is licensed under the GNU General Public License v3.0. Learn more abo
 
 | GitHub Usernames                                      | Domain                     |
 | ----------------------------------------------------- | -------------------------- |
-| [@skshahnawaz](https://github.com/skshahnawaz)        | Full Stack                 |
 | [@ayan-biswas0412](https://github.com/ayan-biswas0412)| Full Stack                 |
+| [@skshahnawaz](https://github.com/skshahnawaz)        | Full Stack                 |
 
 ## COVID-19<sup>Stay Home, Stay Safe!</sup>
 
