@@ -1,70 +1,105 @@
-# Getting Started with Create React App
+# DevConnect
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="centre">
 
-## Available Scripts
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/judevhub/DevConnect)
+![GitHub Pull Request](https://img.shields.io/github/issues-raw/judevhub/DevConnect)
+![GitHub Issues](https://img.shields.io/github/issues-closed-raw/judevhub/DevConnect)
+![GitHub Issues](https://img.shields.io/bitbucket/pr-raw/judevhub/DevConnect)
+![GitHub forks](https://img.shields.io/github/forks/judevhub/DevConnect?label=Fork&style=social)
 
-In the project directory, you can run:
+</div>
 
-### `yarn start`
+## Project Description
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+This project is built to manage an open source community for the [JUDevHub](https://github.com/judevhub) and for the listing of upcoming and past events of JUDevHub.This project is open sourced for community collaborations.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Used Technologies
 
-### `yarn test`
+Here are the technologies which we use to built this project please have a look
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. ReactJS for frontend Development
+2. ExpressJS and MongoDB for Backend development
+3. Material-UI react for fronted enhancement
 
-### `yarn build`
+## Main motto
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To make a completely open sourced community engagement and event management platform.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Learning Resources 🧰
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [Git Documentation](https://git-scm.com/docs)
+- [GitHub Guides](https://guides.github.com/)
+- [How to think in react](https://www.youtube.com/watch?v=YJPSR9dEQV8&t=17s)
+- [React Documentation](https://reactjs.org/docs/getting-started.html)
+- [React Routing Video](https://www.youtube.com/watch?v=Law7wfdg_ls&t=1778s)
+- [Top 5 Skills you must read before working with react](https://www.geeksforgeeks.org/top-5-skills-you-must-know-before-you-learn-reactjs/)
 
-### `yarn eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+-   [Complete Intro to React, v5](https://frontendmasters.com/courses/complete-react-v5/)
+    
+-   [Intermediate React](https://frontendmasters.com/courses/intermediate-react/)
+    
+-   [Introduction to MongoDB](https://frontendmasters.com/courses/mongodb/)
+    
+- [API Design in Node.js (using Express & Mongo)](https://frontendmasters.com/courses/api-design-nodejs/using-the-mongo-with-node/)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## License
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+DevConnect is licensed under the GNU General Public License v3.0. Learn more about it in the [LICENSE](LICENSE) file.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## COVID-19<sup>Stay Home, Stay Safe!</sup>
 
-## Learn More
+I hope you are all staying safe at your home and enjoying the contribution for your awesome open source projects.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```javascript
+/**
+ * 
+ * Let's fight for Corona together!
+ */
+function stayAtHome() {
+  eat();
+  sleep();
+  code();
+  repeat();
+}
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+while(_.isAlive(new Virus('COVID-19'))) {
+  // Stay home, Stay safe
+  stayAtHome();
+}
 
-### Code Splitting
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### :wave: [DO THE FIVE](https://www.mohfw.gov.in/): Help stop coronavirus
 
-### Analyzing the Bundle Size
+1. **HANDS**: Wash them often
+2. **ELBOW**: Cough into it
+3. **FACE**: Don't touch it
+4. **SPACE**: Keep safe distance
+5. **HOME**: Stay if you can
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### :x: Avoid Handshakes :handshake: 
+### :heavy_check_mark: Do Namastey :pray:
 
-### Making a Progressive Web App
+<sup>**PS: I know it's off-topic but **Yes**, COVID-19 everyone's talking about. Please stay safe at your home and enjoy contributing to your projects.**</sup>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```javascript
 
-### Advanced Configuration
+{thisRepo.url} = 'https://github.com/judevhub/DevConnect';
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+if (thisRepo.isAwesome()) {
+  thisRepo.fork(); // waiting for your awesome contributions :)
+  thisRepo.star(); // thanks in advance :p
+  thisRepo.watch(bug => {
+    if (!doesIssueExists(bug)) {
+      createNewIssue(bug); // wow, that's a nice catch
+    } else {
+      checkIssueTracker(bug); // comment there
+    }
+  });
+  thisRepo.share(); // sharing is caring :D
+}
+```
