@@ -1,18 +1,23 @@
-import React from 'react';
-import { MemoryRouter, Switch, Route } from 'react-router-dom';
-import { HomePage } from './pages';
-import { NavBar,Footer } from './components';
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+import { BrowserRouter as Router, Route, Redirect, Switch } from 'react-router-dom';
+import {ErrorPage,CommingSoonPage,HomePage} from './pages';
+import { NavbarComponent,Footer,ScrollToTop} from './components';
 
 function App() {
   return (
-    <MemoryRouter>
-      <NavBar/>
+    <Router>
+      <ScrollToTop />
+      <NavbarComponent />
       <Switch>
-        <Route path="/" component={HomePage}></Route>
+        <Route path='/' exact component={HomePage} />
+        <Route path='/comingsoon' exact component={CommingSoonPage} />
+        <Route path="/404" component={ErrorPage} />
+        <Redirect to="/404" />
       </Switch>
-      <Footer/>
-  </MemoryRouter>
+      <Footer />
+    </Router>
   );
 }
 
