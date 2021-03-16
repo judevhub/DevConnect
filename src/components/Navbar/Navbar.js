@@ -14,7 +14,7 @@ function NavbarComponent() {
                     height="44"
                     className="d-inline-block align-top"
                 />{' '}
-                JU Devhub
+                DevConnect
             </Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
